@@ -1,6 +1,7 @@
 # Hi, I’m Ricardo
 
 I’m a Software Engineer and a graduate student in Boston University’s MS in Computer Science and AI program. My professional work has shown me how much useful analysis depends on the quality of the data behind it. In graduate school, I’m building the programming, systems, and mathematical foundations to turn that analysis into reliable software.
+[View my résumé (PDF)](./RicardoResume_SE.pdf)
 
 ## What I’m learning
 
